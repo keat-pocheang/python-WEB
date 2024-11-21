@@ -1,0 +1,11 @@
+[server]
+headless = true
+
+[global]
+disable_banner = true
+
+[ui]
+hide_streamlit_markers = true
+
+[theme]
+base="light"
